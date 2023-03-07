@@ -1,3 +1,3 @@
-const str:string = "str";
-
-console.log(str)
+const isBirthday: boolean = true;
+const age: number = 25;
+const firstName: string = "Kirill";
